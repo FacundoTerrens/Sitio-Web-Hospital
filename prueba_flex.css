@@ -1,0 +1,6 @@
+.img1{
+    background-image: url(imagenDeFondo.jpg);
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-position: center center;
+}
